@@ -1,1 +1,1 @@
-[{"Name":"Riccardo","Surname":"Gulinner","Email":"baz@strive.school","DateofBirth":"12/12/2012","ID":1},{"Name":"Riccardo","Surname":"Riccardi","Email":"rick@strive.school","DateofBirth":"12/12/2012","ID":2}]
+[{"Name":"Riccardo","Surname":"Gulinner","Email":"baz@strive.school","DateofBirth":"12/12/2012","ID":1,"Image":"http://localhost:3550/img/students/1.jpg"},{"Name":"Riccardo","Surname":"Riccardi","Email":"rick@strive.school","DateofBirth":"12/12/2012","ID":2,"Image":"http://localhost:3550/img/students/2.jpeg"}]

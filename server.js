@@ -6,6 +6,7 @@ const studentsRouter = require("./services/students")
 const projectsRouter = require("./services/projects")
 
 const server = express();
+server.use("/img", express.static(__dirname + "/img"))
 
 server.use(cors())
 server.use(bodyParser.json())
